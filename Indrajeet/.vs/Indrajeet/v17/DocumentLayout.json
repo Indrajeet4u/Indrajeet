@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Indrajeet\\Personal\\Indrajeet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5BDBB1-5C5C-420C-A786-0F4734290215}|Indrajeet.csproj|d:\\indrajeet\\personal\\indrajeet\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5BDBB1-5C5C-420C-A786-0F4734290215}|Indrajeet.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 53,
           "Children": [
             {
               "$type": "Bookmark",
@@ -222,6 +227,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Indrajeet\\Personal\\Indrajeet\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\Indrajeet\\Personal\\Indrajeet\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T06:48:48.347Z",
+              "EditorCaption": ""
             }
           ]
         }
